@@ -4,6 +4,7 @@ description: 'Example of student work: a research paper on private property, com
   property, and property rights.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-467j-property-rights-in-transition-spring-2005/0d7655fbad4fb95950fc146b875c4c82_gv_11467finlpapr.pdf
 file_type: application/pdf
+parent_uid: ab0f0114-9754-91bd-85f0-33115845cf86
 resourcetype: Document
 title: The Private Property-Common Property Dichotomy Is There a Middle Ground in
   the Property Rights Theory?
